@@ -1,0 +1,9 @@
+
+
+.meLeftImgContainer img{
+    width: 276px;
+    height: 445px;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
